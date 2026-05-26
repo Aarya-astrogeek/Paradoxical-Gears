@@ -28,7 +28,32 @@ The suite currently includes three mechanisms:
 All assemblies were designed and modeled in **Autodesk Fusion 360**.
 
 ---
+# Demo Previews
 
+## Paradoxical Gear Mechanism
+
+![Paradoxical Gear Demo](assets/paradoxical.gif)
+
+▶ Full Demonstration Video:  
+[Watch Video](https://drive.google.com/file/d/1aQ1sNeU7u8Ji2aGZ4KChoGPoERckN6D8/view?usp=sharing)
+
+---
+
+## Iris Slider Mechanism
+
+![Iris Slider Demo](assets/iris-slider.gif)
+
+▶ Full Demonstration Video:  
+[Watch Video](https://drive.google.com/file/d/1jI05CsqtM5pSYBqiIQzUQwQSM7QTpV9y/view?usp=sharing)
+
+---
+
+## Paw and Ratchet Mechanism
+
+![Paw and Ratchet Demo](assets/paw-ratchet.gif)
+
+▶ Full Demonstration Video:  
+[Watch Video](https://drive.google.com/file/d/1xYZnpQb4bHYbNs-bFSBW-rL8gePhnyaU/view?usp=sharing)
 # 1. Paradoxical Gear Mechanism
 
 ## Concept
